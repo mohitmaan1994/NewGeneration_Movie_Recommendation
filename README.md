@@ -1,8 +1,8 @@
 # NewGeneration_Movie_Recommendation
 
-Framework Used: Spring MVC
-Back-end language : Java
-Front end languages used: HTML, CSS, Bootstrap, Javascript
+Framework Used: Spring MVC<br>
+Back-end language : Java<br>
+Front end languages used: HTML, CSS, Bootstrap, Javascript<br>
 Database : MariaDB, Galera2 cluster
 
 
