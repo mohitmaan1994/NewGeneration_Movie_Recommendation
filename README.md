@@ -8,10 +8,10 @@ Database : MariaDB, Galera2 cluster
 
 ## Project Overview:
 
-Our entire web application(Movie recommendation system) is divided into 3 screens.
+Our entire web application(Movie recommendation system) is divided into 3 major screens.
 
-Screen 1 : Takes the user id as input to display the the movie recommendations for a particular user.
-Screen 2 : This screen displays the all the movies that are previously tagged by the entered userId for which the mapping is already present in the database.
+Screen 1 : Takes the user id as input to display the the movie recommendations for a particular user.<br>
+Screen 2 : This screen displays the all the movies that are previously tagged by the entered userId for which the mapping is already present in the database.<br>
 Screen 3 : This is the screen where we provide movie recommendations on the basis of inputs from screen 1 and screen 2. The user is provided three types of recommendations. These are recommendations on the basis of tags and ratings, location and age-group
 
 ## Recommendation on the basis of tags and ratings:
